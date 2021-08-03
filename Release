@@ -5,7 +5,7 @@ Version: 1.0
 Codename: bm131488bm
 Architectures: iphoneos-arm
 Components: main
-Description: Nocio的常用软件源
+Description: bm131488bm 的常用软件源
 MD5Sum:
  cb2c65b59a50b9baf9fcb4e9cecc7220 725 Packages
    Packages.bz2
