@@ -1,2 +1,2 @@
 # bm131488bm repo
-Collection bm131488bm; releases
+私人源地址(常用插件做备份) 
